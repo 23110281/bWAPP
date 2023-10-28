@@ -52,7 +52,7 @@ $evil_bee = 0;
 
 // Static credentials
 // These credentials are used on some PHP pages
-$login = "root";
-$password = "toor";
+$login = "bee";
+$password = "bug";
 
 ?>
