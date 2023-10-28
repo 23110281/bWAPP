@@ -253,6 +253,7 @@ header h2 {
 #disclaimer {
         font-family: "Architects Daughter";
         font-size: 14px;
+        /*text-align: center;*/
         color: #ffffff;
         background: url("../images/bg_2.jpg") 0px 0px repeat-x;
         padding: 9px;
